@@ -10,7 +10,7 @@ Contents:
 
 .. toctree::
    :maxdepth: 2
-
+   django_first_project
 
 
 Indices and tables
